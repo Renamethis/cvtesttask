@@ -1,0 +1,33 @@
+{
+    "version": "4.5.7",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "8.2.4 Зона действия",
+            "points": [
+                [
+                    622,
+                    438
+                ],
+                [
+                    644,
+                    394
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {
+                "инструмент": "НС",
+                "тип НС": "YOLOv3",
+                "достоверность": 0.6474609375,
+                "класс объекта": 246,
+                "веса НС": "config_train\\Signs_314_1024_new_train_100\\train_2021_12_10__21_49_03\\weights\\best.pt",
+                "классификатор": "дорожные знаки"
+            }
+        }
+    ],
+    "imagePath": null,
+    "imageData": null,
+    "imageHeight": 1024,
+    "imageWidth": 768
+}
